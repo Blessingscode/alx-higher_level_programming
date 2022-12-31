@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """magic class definition"""
-
 import math
+
 
 class MagicClass:
     """magicclass that makes same bytecode as in the task"""
